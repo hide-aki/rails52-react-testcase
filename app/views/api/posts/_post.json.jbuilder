@@ -1,0 +1,1 @@
+json.extract! post, :id, :name, :category_id, :attachment, :content, :created_at, :updated_at
